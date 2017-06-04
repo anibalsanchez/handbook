@@ -2,17 +2,17 @@
 
 ## Cycles
 
-We work in 6-week cycles at Basecamp. This fixed cadence serves to give us an internal sense of urgency, work as a scope hammer to keep projects from ballooning, and provide a regular interval to decide what we’re working on.
+We work in **6-week cycles** at Basecamp. This fixed cadence serves to give us an internal sense of urgency, work as a scope hammer to keep projects from ballooning, and provide a regular interval to decide what we’re working on.
 
 The idea is not that everything we ever decide to work on has to take six weeks or can be completed in that time. But rather that we think about how we can break big projects into smaller ones that can be done in that amount of time, and that we bundle smaller things into presentable scope of work that can be discussed.
 
-On the product side, we’ve even formalized this further with the notion of Big Batch and Small Batch work. In Big Batch, we work on a single feature that’s likely to take the entire six weeks. In this mode, the six week limit works as a budget. If what we currently have in mind doesn’t fit within that, the first approach should be to judo the problem and scope hammer the domain. Most things we work on can fit within six weeks.
+On the product side, we’ve even formalized this further with the notion of **Big Batch** and **Small Batch** work. In Big Batch, we work on a single feature that’s likely to take the entire six weeks. In this mode, the six week limit works as a budget. If what we currently have in mind doesn’t fit within that, the first approach should be to **judo the problem** and **scope hammer the domain**. Most things we work on can fit within six weeks.
 
-In Small Batch, we work on stuff that won’t take longer than 2 weeks at the maximum. So we can get more like 3-5 smaller things done in a single cycle.
+In *Small Batch*, we work on stuff that won’t take longer than *2 weeks at the maximum*. So we can get more like *3-5 smaller things done in a single cycle*.
 
 But the general concept of the cycle extends to all departments. It gives us a regular rhythm to heartbeat on, and it allows us the patience to keep messing with the priorities for at least six weeks at the time.
 
-In between each cycle, we usually spend 1-2 weeks cooling down, dealing with various backlogs or bug smashes, and figuring out what we should tackle next.
+In between each cycle, we usually spend **1-2 weeks cooling down**, dealing with various backlogs or bug smashes, and figuring out what we should tackle next.
 
 We’re currently naming the cycles after glorious mountains on earth and beyond.
 
